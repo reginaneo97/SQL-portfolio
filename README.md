@@ -22,7 +22,7 @@ The project focuses on:
 The dataset is sourced from a Kaggle simulated e-commerce event log and can be accessed here:  
 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/16nC6ajwSZ_VJlIxngnYhAeWbEzgyzYq8?usp=sharing)
 
-2. [Fintech App Customer LTV & Behavior Analysis] ()
+2. [Fintech App Customer LTV & Behavior Analysis](https://github.com/reginaneo97/SQL-portfolio/blob/main/Project%202_Fintech_App_Analysis.sql)
 
 This project explores customer lifetime value (LTV), engagement, and usage behavior for a simulated fintech mobile app using SQL. Through a combination of data quality checks, behavioral segmentation, and retention analysis, this project helps surface actionable insights that would be valuable to product managers, data teams, and growth strategists in the fintech industry.
 
