@@ -13,7 +13,7 @@ In this repository, you will find a variety of SQL projects, including:
 1. E-commerce trends: Customer Journey & Product Analysis (SQL)
 This project demonstrates my ability to analyse user behavior, product performance, and pricing dynamics using SQL on a e-commerce event dataset. I developed a suite of queries to uncover actionable insights across key business areas such as marketing funnels, user engagement, and revenue drivers.
 
-# [E-commerce Customer Behavior and Product Analysis](http)
+# [E-commerce Customer Behavior and Product Analysis](Project 1_ecommerce_analysis.sql)
 
 This project analyzes and visualizes customer activity across an e-commerce platform using SQL. It includes metrics such as user engagement, product conversion, price sensitivity, and cross-category behavior.
 
