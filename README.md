@@ -14,11 +14,22 @@ In this repository, you will find a variety of SQL projects, including:
 This project analyzes and visualizes customer activity across an e-commerce platform using SQL. It includes metrics such as user engagement, product conversion, price sensitivity, and cross-category behavior.
 
 The project focuses on:
-- Funnel performance
+- User Funnel performance
 - Session behavior
 - High-engagement vs low-spend customers
 - Price-performance trends
 
-The dataset is sourced from a simulated e-commerce event log and can be accessed here:  
+The dataset is sourced from a Kaggle simulated e-commerce event log and can be accessed here:  
 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/16nC6ajwSZ_VJlIxngnYhAeWbEzgyzYq8?usp=sharing)
 
+2. [Fintech App Customer LTV & Behavior Analysis] ()
+
+This project explores customer lifetime value (LTV), engagement, and usage behavior for a simulated fintech mobile app using SQL. Through a combination of data quality checks, behavioral segmentation, and retention analysis, this project helps surface actionable insights that would be valuable to product managers, data teams, and growth strategists in the fintech industry.
+
+The project focuses on:
+- Customer Segmentation & Spend Behavior
+- Usage Patterns & Retention Metrics
+-  Growth & Referral Insights
+
+The dataset is sourced from a Kaggle simulated fintech digital wallet dataset and can be accessed here:  
+[Download Dataset (Google Drive)](https://drive.google.com/file/d/1m6XzcYpMA7AGw6gaVaLvEDdZPjYEQEYv/view?usp=sharing)
