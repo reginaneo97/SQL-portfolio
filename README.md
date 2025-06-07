@@ -4,6 +4,7 @@ Welcome to my personal SQL portfolio repository! Here you'll find a collection o
 # About Me
 I am a product manager with a strong background in SQL. Over the years, I have honed my skills in designing and optimizing databases, writing complex queries, and leveraging SQL's powerful features to extract meaningful insights from data. This portfolio demonstrates my ability to tackle real-world data challenges. 
 
-#SQL projects
+**#SQL projects**
 In this repository, you will find a variety of SQL projects, including:
-1. E-commerce trends
+1. E-commerce trends: Customer Journey & Product Analysis (SQL)
+This project demonstrates my ability to analyse user behavior, product performance, and pricing dynamics using SQL on a e-commerce event dataset. I developed a suite of queries to uncover actionable insights across key business areas such as marketing funnels, user engagement, and revenue drivers.
