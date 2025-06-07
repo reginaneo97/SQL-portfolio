@@ -4,9 +4,7 @@ Welcome to my personal SQL portfolio repository! Here you'll find a collection o
 # About Me
 I am passionate about using SQL to extract meaningful insights from data. This portfolio demonstrates my ability to tackle real-world data challenges. 
 
-# Tools Used
-a. DBeaver for SQL scripting and analysis.
-b. MySQL-compatible syntax.
+# Tools Used: DBeaver for SQL scripting and analysis, and MySQL-compatible syntax.
 
 # SQL projects
 In this repository, you will find a variety of SQL projects, including:
